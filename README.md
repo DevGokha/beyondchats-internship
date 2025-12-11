@@ -90,7 +90,7 @@ To scale this solution, I would transition from this synchronous script to the f
     * **Tier 3:** Only route to `gpt-4-turbo` for complex, high-stakes flagged conversations.
 
 ---
-
+```
 llm-eval-pipeline/
 │
 ├── main.py                          <-- Core pipeline logic 
@@ -101,3 +101,4 @@ llm-eval-pipeline/
 ├── sample-chat-conversation-02.json <-- Input Data
 ├── sample_context_vectors-02.json   <-- Input Data
 └── .gitignore                       <-- Git configuration
+```
