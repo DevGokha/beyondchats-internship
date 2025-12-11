@@ -91,13 +91,13 @@ To scale this solution, I would transition from this synchronous script to the f
 
 ---
 
-## 📂 Repository Structure
 llm-eval-pipeline/
 │
-├── main.py              <-- Core pipeline logic 
-├── README.md            <-- Documentation   
-├── sample-chat-conversation-01.json    <-- Input Data
-├── sample_context_vectors-01.json    <-- Input Data
-├── sample-chat-conversation-02.json    <-- Input Data
-├── sample_context_vectors-02.json    <-- Input Data
-└── .gitignore           <--Git configuration
+├── main.py                          <-- Core pipeline logic 
+├── README.md                        <-- Documentation   
+├── requirements.txt                 <-- Project dependencies
+├── sample-chat-conversation-01.json <-- Input Data
+├── sample_context_vectors-01.json   <-- Input Data
+├── sample-chat-conversation-02.json <-- Input Data
+├── sample_context_vectors-02.json   <-- Input Data
+└── .gitignore                       <-- Git configuration
