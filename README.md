@@ -15,7 +15,7 @@ This project is an automated pipeline designed to evaluate the reliability of Re
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link-here>
+    git clone https://github.com/DevGokha/beyondchats-internship
     cd llm-eval-pipeline
     ```
 
